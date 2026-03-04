@@ -1,17 +1,42 @@
-# tarea6_2021_0685
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tarea 6 – Aplicación Flutter
+ 
+**Nombre:** Rozenny Pie Valentin  
+**Matrícula:** 2021-0685  
+ 
+---
+ 
+## 📱 Descripción del Proyecto
+ 
+Aplicación móvil desarrollada en Flutter que implementa:
+ 
+- Pantalla de inicio con animación
+- Navegación entre pantallas
+- Consumo de API OpenWeatherMap (clima en tiempo real)
+- Consumo de API WordPress REST (blog de recetas de comida)
+- Manejo de peticiones HTTP
+- Apertura de enlaces externos
+ 
+La aplicación fue desarrollada priorizando funcionalidad, correcta integración de APIs y estabilidad, considerando limitaciones de recursos del entorno de prueba.
+ 
+---
+ 
+## 🌐 APIs Utilizadas
+ 
+- OpenWeatherMap (Plan gratuito)
+- WordPress REST API (Blog de recetas)
+ 
+---
+ 
+## 📂 Proyecto Completo en Drive
+ 
+👉 [Acceder a la carpeta del proyecto](PEGA_AQUI_TU_LINK_DE_DRIVE)
+ 
+---
+ 
+## 🚀 Tecnologías
+ 
+- Flutter
+- Dart
+- HTTP
+- JSON
+- url_launcher
